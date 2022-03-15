@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/TestApp/TestApp.iml" filepath="$PROJECT_DIR$/TestApp/TestApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/arrays_zadacha1/arrays_zadacha1.iml" filepath="$PROJECT_DIR$/arrays_zadacha1/arrays_zadacha1.iml" />
       <module fileurl="file://$PROJECT_DIR$/arrays_zadacha2/arrays_zadacha2.iml" filepath="$PROJECT_DIR$/arrays_zadacha2/arrays_zadacha2.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/homework.iml" filepath="$PROJECT_DIR$/.idea/homework.iml" />
